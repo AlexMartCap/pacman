@@ -3,8 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <title>HTML5 Pacman prova de Alex Martínez</title>
+<<<<<<< HEAD
     ghdfgfdgfdjajajajajfdsfñdkfñods
     ñkgdflgkfdñgkfdggfdgfdg
+=======
+    ghdfgfdgfdgrgrggfdgfdgr
+>>>>>>> 87705f2b4df347ba1c2702d73fdfb5c878f37c28
     <style type="text/css">
       @font-face {
 	    font-family: 'BDCartoonShoutRegular';
